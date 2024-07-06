@@ -7,7 +7,7 @@ function Navbar() {
             Task<span className="text-[#ff5631]">Flow</span>
           </h1>
         </a>
-        <a href="/">
+        <a href="https://github.com/aqeebpathan/taskflow">
           <img src="/github.svg" alt="github" className="w-10 h-10" />
         </a>
       </nav>
